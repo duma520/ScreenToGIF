@@ -1,0 +1,2 @@
+# ScreenToGIF
+ScreenToGIF 屏幕录制工具，ScreenToGIF 是一款基于Python和PySide6开发的跨平台屏幕录制工具，能够捕获指定屏幕区域的画面，并以多线程方式高效处理图像数据，最终输出为优化后的GIF动画文件。软件支持实时预览、帧编辑、播放控制等高级功能。
