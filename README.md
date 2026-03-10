@@ -1,5 +1,10 @@
-# 软件截图
+# 软件截图 v1.0.4
 
+<img width="916" height="869" alt="image" src="https://github.com/user-attachments/assets/d4f2249d-650a-433f-ab62-580aa5f1211e" />
+
+<img width="916" height="869" alt="image" src="https://github.com/user-attachments/assets/c8f055a2-3f77-4bd3-a2b9-769ae532b599" />
+
+<img width="916" height="869" alt="image" src="https://github.com/user-attachments/assets/e5d516a9-041a-4036-8cbe-7efc1313425f" />
 
 ---
 
