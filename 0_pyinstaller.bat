@@ -1,5 +1,4 @@
 pyinstaller --noconfirm ^
-    --onefile ^
     --windowed ^
     --icon=icon.ico ^
     --name="ScreenToGIF" ^

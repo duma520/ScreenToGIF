@@ -1,0 +1,34 @@
+{
+  "output_directory": "G:\\Python_Code\\ScreenToGIF\\ScreenToGIF_Recordings",
+  "fps": 10,
+  "scale_percent": 100,
+  "quality": 80,
+  "auto_start": true,
+  "show_preview": true,
+  "frame_skip": 0,
+  "colors": 256,
+  "window_x": 196,
+  "window_y": 23,
+  "window_width": 1100,
+  "window_height": 955,
+  "splitter_sizes": [
+    462,
+    614
+  ],
+  "last_selection": {
+    "x": 2382,
+    "y": 275,
+    "width": 618,
+    "height": 446
+  },
+  "enable_size_control": true,
+  "target_size_kb": 1024,
+  "size_control_mode": "auto",
+  "min_scale_percent": 30,
+  "min_colors": 32,
+  "auto_switch_tab": false,
+  "enable_file_manager_preview": true,
+  "enable_history_preview": true,
+  "auto_play_preview": true,
+  "log_font_size": 9
+}
